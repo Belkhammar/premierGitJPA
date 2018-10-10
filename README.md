@@ -1,0 +1,2 @@
+# premierGitJPA
+JPA = OneToMany
